@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# Tulasi Joshua Mbawini <tulasijoshuambawini@alx.com>
+# Brennan D Baraban <375@holbertonschool.com>
 
 import sys
 
